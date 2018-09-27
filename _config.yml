@@ -1,0 +1,13 @@
+# basic options
+title: Vakantie Oktober 2018
+author: Kees
+description: Blog van de vakantie van Oktober 2018
+URL: "https://prudento-nl.github.io/2018-10-vakantie-duitsland.git"
+images: "https://prudento-nl.github.io/2018-10-vakantie-duitsland.git/images"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+minima:
+  date_format: "%d-%m-%Y"
