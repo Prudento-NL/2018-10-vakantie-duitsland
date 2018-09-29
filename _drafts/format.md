@@ -5,5 +5,8 @@ date: 2018-01-01
 ---
 For testing  
 
+Links  
+[Description](http://example.com)
 
-![Naam]({{ site.images }}/filenaam.jpg?raw=true)
+Images  
+![Description]({{ site.images }}/filenaam.jpg?raw=true)
