@@ -12,7 +12,7 @@ date: 2017-08-20 17:00:00
 Tekst
 
 ===== Format file name =====
-- YEAR-MONTH-DAY-title.MARKUP
+- YEAR-MONTH-DAY-title.md
 - 2011-12-31-new-years-eve-is-awesome.md
 
 ===== URL =====
