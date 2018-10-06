@@ -2,8 +2,9 @@
 title: Vakantie Oktober 2018 - Duitsland
 author: Kees
 description: Blog van de vakantie van Oktober 2018
-URL: "https://prudento-nl.github.io/2018-10-vakantie-duitsland.git"
-images: "https://prudento-nl.github.io/2018-10-vakantie-duitsland.git/images"
+URL: "https://prudento-nl.github.io/2018-10-vakantie-duitsland"
+
+images: "https://prudento-nl.github.io/2018-10-vakantie-duitsland/images"
 
 # Build settings
 markdown: kramdown
